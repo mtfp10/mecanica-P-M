@@ -288,7 +288,7 @@ img ~ p {
 
 */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 560px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
@@ -302,7 +302,7 @@ img ~ p {
     }
 
     .lista-beneficios, .imagem-beneficios {
-        width: 100%;
+        width: 250%;
     }
 
 }
